@@ -18,7 +18,7 @@ class BaseURL {
     }
 
     companion object {
-        const val API_ENDPOINT = "fineract.carlito.co.ke"
+        const val API_ENDPOINT = "daticash.carlito.co.ke"
         const val API_PATH = "/fineract-provider/api/v1/self/"
         const val PROTOCOL_HTTPS = "https://"
     }
